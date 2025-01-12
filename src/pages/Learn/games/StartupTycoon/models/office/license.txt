@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minimalistic Modern Office
+* source:	https://sketchfab.com/3d-models/minimalistic-modern-office-5540183da1c7452f810f8de33734879a
+* author:	dylanheyes (https://sketchfab.com/dylanheyes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minimalistic Modern Office" (https://sketchfab.com/3d-models/minimalistic-modern-office-5540183da1c7452f810f8de33734879a) by dylanheyes (https://sketchfab.com/dylanheyes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
