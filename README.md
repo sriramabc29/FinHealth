@@ -74,7 +74,8 @@ Finhealth empowers users to take control of their financial journey by offering:
 
 - **User Dashboard**: Initial designs implemented with dynamic data visualization.
 
-![User Interface](user-interface-image 1.png)
+![user-interface-image 2](https://github.com/user-attachments/assets/ac7fcf6d-df64-4da0-88ca-ff5325f49641)
+![user-interface-image 1](https://github.com/user-attachments/assets/bfc4cb3f-4239-43e9-aca5-c874557493be)
 
 ---
 
