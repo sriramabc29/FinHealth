@@ -66,7 +66,7 @@ Finhealth empowers users to take control of their financial journey by offering:
 ### Current State
 - **Landing Page**: Fully designed with a user-friendly interface.
 
-![Landing Page](path/to/landing-page-image.png)
+![Landing Page](landing-page-image.png)
 
 - **Login Page**: Features secure authentication options.
 
