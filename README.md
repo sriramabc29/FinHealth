@@ -138,5 +138,5 @@ For questions, feedback, or collaboration, reach out to me:
 ---
 
 ## **Acknowledgements**
-Thank you|
+Thank you!
 
