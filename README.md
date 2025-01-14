@@ -70,11 +70,12 @@ Finhealth empowers users to take control of their financial journey by offering:
 
 - **Login Page**: Features secure authentication options.
 
-![Login Page](path/to/login-page-image.png)
+![Login Page](login-page-image.png)
 
 - **User Dashboard**: Initial designs implemented with dynamic data visualization.
 
-![User Interface](path/to/user-interface-image.png)
+![User Interface](user-interface-image 1.png)
+![User Interface](user-interface-image 2.png)
 
 ---
 
