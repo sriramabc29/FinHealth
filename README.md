@@ -135,5 +135,5 @@ For questions, feedback, or collaboration, reach out to me:
 ---
 
 ## **Acknowledgements**
-Thank you to all users and contributors for their support in making Finhealth a reality. Together, we can achieve financial empowerment and sustainability!
+Thank you|
 
