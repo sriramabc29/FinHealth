@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FinHealth/static/css/main.001349f4.css",
+    "main.js": "/FinHealth/static/js/main.9f96b3fc.js",
+    "static/media/your-hero.mp4": "/FinHealth/static/media/your-hero.a455ca58ec3178b622bb.mp4",
+    "index.html": "/FinHealth/index.html",
+    "main.001349f4.css.map": "/FinHealth/static/css/main.001349f4.css.map",
+    "main.9f96b3fc.js.map": "/FinHealth/static/js/main.9f96b3fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.001349f4.css",
+    "static/js/main.9f96b3fc.js"
+  ]
+}
