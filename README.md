@@ -1,3 +1,6 @@
+![Screenshot 2025-01-14 165457](https://github.com/user-attachments/assets/be491e04-104a-4046-82b4-2fc6053d4ecf)
+## [**Try FinHealth Now!**](https://sriramabc29.github.io/FinHealth/)
+
 # Finhealth - A Financial Wellness and Management Ecosystem
 
 ## **Overview**
